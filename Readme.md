@@ -1,0 +1,40 @@
+# Proiect MPS
+
+
+## Organizare si Roluri
+
+In cadrul echipei, rolurile sunt impartite dupa cum urmeaza: 
+* Project Manager - Corina (coordonare proiect, planificare task-uri, verificare progres, comunicare cu echipa si clientul)
+* Technical Team Leader - Mihai (coordonare echipa de dezvoltatori, dezvoltare software)
+* Developers - Andrei, Calin, Alex (dezvoltare software, research)
+* Tester - Kristina (testare functionalitati - unit testing, validation testing etc.)
+
+
+## Metodologie de dezvoltare
+
+Ca metodologie de dezvoltare am ales Agile, impartind munca totala necesara finalizarii proiectului in 4 sprint-uri a 
+cate 2 saptamani fiecare. Astfel, echipa poate fi flexibila si se poate adapta la schimbari neasteptate pe perioada dezvoltarii, avand posibilitatea de a replanifica activitatile.
+
+
+## Planificare
+
+Pentru planificare folosim Jira, avand la dispozitie tool-uri pentru a ne imparti munca si pentru a urmari progresul. De asemenea, membrii echipei ce au rol de coordonatori pot verifica starea in care se afla dezvoltarea, pot oferi sfaturi si ii pot ajuta pe ceilalti sa isi realizeze task-urile la timp.
+
+
+## Tehnologii folosite
+
+Limbajul pe care-l vom folosi pentru dezvoltarea proiectului este Java.
+
+
+Pentru versionare si gestiune folosim GitHub.
+
+
+## Arhitectura
+
+In ceea ce priveste arhitectura, momentan consideram ca este cel mai bine ca totul sa ruleze local, avand o arhitectura de tip Shared Memory. O arhitectura distribuita ar necesita un setup mai avansat.
+
+
+## Link-uri
+
+* Repo GitHub: https://github.com/dutualincalin/Proiect_MPS
+* Jira: https://mps4acmack.atlassian.net/jira/software/projects/IPP/boards/1/roadmap
